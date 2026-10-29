@@ -15,6 +15,7 @@ MediaPipe Pose landmarks?
 - Extract landmarks with MediaPipe, compute neck and trunk angles
 - Evaluate classification accuracy per angle (leave-one-person-out)
 - Analyze failure cases
+- 
 - ## First pipeline test (single subject)
 ![First test results](results/first_test_table.png)
 Neck and trunk angles computed from MediaPipe landmarks for three postures.
